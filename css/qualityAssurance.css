@@ -1,0 +1,50 @@
+.contact{
+    padding: 50px, 0;
+}
+
+/*.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* flex-wrap: wrap; */
+    /*background: linear-gradient( #f57323 98%, white 0%);
+
+}*/
+
+.col-sm-3{
+    flex-basis: 50%;
+    display: flex;
+}
+
+.col-sm-9{
+    flex-basis: 50%;
+}
+
+.contact-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    /* background: linear-gradient(169deg, #ffffff 45%, white 0%); */
+    background-color: #f4f4f4;
+}
+
+.contact-right-col{
+	flex-basis: 50%;
+    margin-left: -10%;
+}
+
+img{
+    height: 20%;
+    width: 40%;
+    margin-left: 7%;
+    margin-top: 3%;
+}
+
+.para, .brand-list, .left-underline {
+    color: #111111;
+    font-family: sans-serif;
+	font-size: 18px;
+	line-height: 1.5;
+
+}
