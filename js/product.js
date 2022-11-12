@@ -20,3 +20,4 @@ previewBox.forEach(close =>{
     preveiwContainer.style.display = 'none';
   };
 });
+
